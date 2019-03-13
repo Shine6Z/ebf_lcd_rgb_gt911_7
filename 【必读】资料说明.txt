@@ -8,4 +8,4 @@ F429提供有教学视频，其中包含有以上屏幕原理讲解，有需要请统一到F429光盘资料处下载
 
 联系我们：
 论坛：www.firebbs.cn
-淘宝：https://wfirelefan.taobao.com
+淘宝：https://fire-stm32.taobao.com
